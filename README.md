@@ -1,5 +1,8 @@
 # Graphic Designer
 
+## Find Me
+[Instagram](https://www.instagram.com/aqulyss/)
+
 ## Education
 - Elementary School: Sultan Hasanuddin, Aek Kanopan
 - Junior High School: Sultan Hasanuddin, Aek Kanopan
@@ -11,11 +14,11 @@
 - Blender
 
 ## Projects
-- Instagram Story Crunchyroll Ad
+- **Instagram Story Crunchyroll Ad**
 ![image](/asset/Story%20CRUNCHYROLL.jpg)
 
-- Instagram Story OVO Ad
+- **Instagram Story OVO Ad**
 ![image](/asset/Story%20OVO.jpg)
 
-- Instagram Story VICKS Ad
+- **Instagram Story VICKS Ad**
 ![image](/asset/Story%20VICKS.jpg)
