@@ -5,7 +5,10 @@
 - Junior High School: Sultan Hasanuddin, Aek Kanopan
 - High School: Sutomo 1, Medan
 
-## Work Experience
+## Skills
+- Adobe Illustrator
+- Adobe Photoshop
+- Blender
 
 ## Projects
 - Instagram Story Crunchyroll Ad
