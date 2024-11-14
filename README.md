@@ -1,13 +1,13 @@
 # Graphic Designer
 
-**EN/ID**
+##ID/EN
 
-## About
+### About
 Hey there! I'm Gabrio Sutanto
 
 Visual Communication Design Student At Universitas Prima Indonesia
 
-## More Information
+### More Information
 
 **Email:** **gabriosutanto1@gmail.com**
 
@@ -15,17 +15,17 @@ Visual Communication Design Student At Universitas Prima Indonesia
 
 **Phone Number:** **+62813-2118-8777**
 
-## Education
+### Education
 - **Elementary School**: Sultan Hasanuddin, Aek Kanopan
 - **Junior High School**: Sultan Hasanuddin, Aek Kanopan
 - **High School**: Sutomo 1, Medan
 
-## Skills
+### Skills
 - **Adobe Illustrator**
 - **Adobe Photoshop**
 - **Blender**
 
-## Projects
+### Projects
 - **Instagram Story Crunchyroll Ad**
 ![image](/asset/Story%20CRUNCHYROLL.jpg)
 
