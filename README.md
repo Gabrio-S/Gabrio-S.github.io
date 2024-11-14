@@ -1,7 +1,7 @@
 # Graphic Designer
 
 ## Find Me
-[Instagram](https://www.instagram.com/aqulyss/)
+![Image](/asset/Instagram%20Logo.png(https://www.instagram.com/aqulyss/))
 
 ## Education
 - **Elementary School**: Sultan Hasanuddin, Aek Kanopan
