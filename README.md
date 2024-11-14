@@ -1,6 +1,6 @@
 # Graphic Designer
 
-##ID/EN
+## ID/EN
 
 ### About
 Hey there! I'm Gabrio Sutanto
