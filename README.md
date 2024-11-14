@@ -6,6 +6,7 @@ Visual Communication Design Student At Universitas Prima Indonesia
 
 ## More Information
 **gabriosutanto1@gmail.com**
+
 **[Instagram](https://www.instagram.com/aqulyss/)**
 **+62813-2118-8777**
 **EN/ID**
