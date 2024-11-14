@@ -4,14 +4,14 @@
 [Instagram](https://www.instagram.com/aqulyss/)
 
 ## Education
-- Elementary School: Sultan Hasanuddin, Aek Kanopan
-- Junior High School: Sultan Hasanuddin, Aek Kanopan
-- High School: Sutomo 1, Medan
+- **Elementary School**: Sultan Hasanuddin, Aek Kanopan
+- **Junior High School**: Sultan Hasanuddin, Aek Kanopan
+- **High School**: Sutomo 1, Medan
 
 ## Skills
-- Adobe Illustrator
-- Adobe Photoshop
-- Blender
+- **Adobe Illustrator**
+- **Adobe Photoshop**
+- **Blender**
 
 ## Projects
 - **Instagram Story Crunchyroll Ad**
