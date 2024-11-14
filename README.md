@@ -3,13 +3,17 @@
 **EN/ID**
 
 ## About
-Hey there! I'm Gabrio Sutanto__
+Hey there! I'm Gabrio Sutanto
+
 Visual Communication Design Student At Universitas Prima Indonesia
 
 ## More Information
-**gabriosutanto1@gmail.com**__
-**[Instagram](https://www.instagram.com/aqulyss/)**__
-**+62813-2118-8777**__
+
+**gabriosutanto1@gmail.com**
+
+**[Instagram](https://www.instagram.com/aqulyss/)**
+
+**+62813-2118-8777**
 
 ## Education
 - **Elementary School**: Sultan Hasanuddin, Aek Kanopan
