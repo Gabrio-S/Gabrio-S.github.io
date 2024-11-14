@@ -1,5 +1,7 @@
 # Graphic Designer
 
+**EN/ID**
+
 ## About
 Hey there! I'm Gabrio Sutanto
 Visual Communication Design Student At Universitas Prima Indonesia
@@ -8,8 +10,8 @@ Visual Communication Design Student At Universitas Prima Indonesia
 **gabriosutanto1@gmail.com**
 
 **[Instagram](https://www.instagram.com/aqulyss/)**
+
 **+62813-2118-8777**
-**EN/ID**
 
 ## Education
 - **Elementary School**: Sultan Hasanuddin, Aek Kanopan
